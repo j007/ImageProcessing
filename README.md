@@ -1,0 +1,1 @@
+Goal: Use celebrity image dataset to predict the gender of the celebrity
